@@ -118,7 +118,7 @@ Command Help - /plan import                     || Import dat
 Command Help - /plan info                       || Zjistit verzi Plan
 Command Help - /plan ingame                     || Ukázat Hráčské info ve hře
 Command Help - /plan json                       || Ukázat json Hráčských čistých dat.
-Command Help - /plan logout                     || Log out other users from the panel.
+Command Help - /plan logout                     || Odhlásit jiné uživatele z panelu.
 Command Help - /plan network                    || Ukázat stránku sítě
 Command Help - /plan player                     || Ukázat stránku hráče
 Command Help - /plan players                    || Ukázat stránku hráčů
@@ -165,7 +165,7 @@ HTML - COMPARING_15_DAYS                        || Srovnání posledních 15 dn�
 HTML - COMPARING_60_DAYS                        || Srovnání posledních 60 dní
 HTML - COMPARING_7_DAYS                         || Srovnání posledních 7 dní
 HTML - DATABASE_NOT_OPEN                        || Databáze není otevřená, ověřte status databáze s /plan info
-HTML - DESCRIBE_RETENTION_PREDICTION            || This value is a prediction based on previous players.
+HTML - DESCRIBE_RETENTION_PREDICTION            || Tato hodnota je odhad na základě předchozích hráčů.
 HTML - ERROR                                    || Autentifikace neuspěšná kvůli chybě
 HTML - EXPIRED_COOKIE                           || Uživatelské cookie expirovalo
 HTML - FILTER_ACTIVITY_INDEX_NOW                || Aktuální skupina aktivit
@@ -464,7 +464,7 @@ In Depth Help - /plan import                    || Vykoná import k načtení da
 In Depth Help - /plan info                      || Zobrazí aktuální status pluginu.
 In Depth Help - /plan ingame                    || Ukáže některé informace o hráči ve hře.
 In Depth Help - /plan json                      || Dovolí stáhnout hráčská data v json formátu. Všechna.
-In Depth Help - /plan logout                    || Give username argument to log out another user from the panel, give * as argument to log out everyone.
+In Depth Help - /plan logout                    || Napište jméno uživatele pro odhlášení jiného uživatele z panelu, použijte * pro odhlášení všech uživatelů.
 In Depth Help - /plan network                   || Získání odkazu k /network page, pouze na sítích.
 In Depth Help - /plan player                    || Získání odkazu k /player page specifického hráče, či aktuálního.
 In Depth Help - /plan players                   || Získání odkazu k /players page k zobrazení seznamu hráčů.
